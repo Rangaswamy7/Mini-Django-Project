@@ -1,0 +1,4 @@
+Rangaswamy v r
+
+An Employee Management System that build an using Django web Framework for creation of users and Management of Employees,Salaary,Department
+and Perform various crud operaion in django database on different classes that are created.
